@@ -7,6 +7,8 @@ lang: en
 
 USB serial terminal with live charts, shortcuts, and exportable logs.
 
+**[Get it on Google Play](https://play.google.com/store/apps/details?id=com.dsdtech.diserial_mobile)**
+
 diSerial by DSD TECH brings the core serial debugging workflows from Windows and macOS to Android phones and tablets. Connect over USB to send and receive serial data, replay saved commands, plot incoming values, and record and export logs. The wide tablet layout keeps the terminal and shortcuts in view together.
 
 ## Serial terminal
