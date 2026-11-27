@@ -1,6 +1,6 @@
 # diSerial for Android
 
-diSerial is a USB serial terminal for Android phones and tablets. Connect a compatible single-port USB serial adapter to send and receive data, reuse saved commands, plot incoming values, and record serial sessions.
+diSerial by DSD TECH is a USB serial terminal for Android phones and tablets. Connect a compatible single-port USB serial adapter to send and receive data, reuse saved commands, plot incoming values, and record serial sessions. The wide tablet layout shows the terminal and command shortcuts side by side.
 
 | Requirement | Details |
 |---|---|
@@ -11,13 +11,12 @@ diSerial is a USB serial terminal for Android phones and tablets. Connect a comp
 ## Download diSerial
 
 - [Get diSerial on Google Play](https://play.google.com/store/apps/details?id=com.dsdtech.diserial_mobile)
-- [Android app introduction](https://dsdtech-official.github.io/diSerial-android/)
 
 ## Features
 
-- **USB serial terminal.** Configure baud rate, data bits, stop bits and parity. Send ASCII or hexadecimal data, add line endings or a checksum, and repeat a send at a set interval. Inspect received data with filters and auto-scroll.
-- **Command shortcuts.** Turn a sent command into a reusable shortcut, organize commands into groups, and import or export shortcuts as JSON.
-- **Live plots.** Plot incoming values with CSV, key-value, or custom binary parsing rules. Pause plotting or inspect the latest channel values.
+- **USB serial terminal.** Configure baud rate, data bits, stop bits and parity. Send ASCII with optional line endings or hexadecimal data with an optional frame checksum. Repeat a send at a set interval. View received data as text or hexadecimal with filters and auto-scroll.
+- **Command shortcuts.** Save a command from send history as a shortcut and replay the original bytes with one tap. Organize shortcuts into groups and import or export them as JSON.
+- **Live plots.** Plot incoming values with CSV, key-value, or custom binary parsing rules. Pause plotting, inspect the latest value on each channel, or use sample data to preview a custom profile.
 - **Session logs.** Record traffic locally, browse sessions by date, inspect individual frames, and export captures as TXT or CSV.
 
 ## Quick start
