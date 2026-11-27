@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">diSerial</string>
+    <string name="nav_terminal">Terminale</string>
+    <string name="nav_macros">Scorciatoie</string>
+    <string name="nav_plotter">Visualizzazione</string>
+    <string name="nav_logs">Registri</string>
+    <string name="action_connect">Connetti</string>
+    <string name="action_disconnect">Disconnetti</string>
+    <string name="action_send">Invia</string>
+    <string name="status_connected">Connesso</string>
+    <string name="status_disconnected">Disconnesso</string>
+    <string name="status_preview_mode">Modalità anteprima</string>
+</resources>

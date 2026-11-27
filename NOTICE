@@ -1,0 +1,13 @@
+diSerial for Android
+Copyright 2026 DongGuan DESHIDE TECHNOLOGY CO.,LTD
+
+This distribution includes the Gradle 9.3.1 Wrapper from Gradle,
+licensed under the Apache License, Version 2.0. The Wrapper JAR
+contains its upstream license notices in META-INF/LICENSE.
+
+The font files in shared/src/commonMain/composeResources/font are
+distributed under the SIL Open Font License, Version 1.1. See:
+
+- Inter: licenses/Inter-OFL.txt
+- JetBrains Mono: licenses/JetBrains-Mono-OFL.txt
+- Space Grotesk: licenses/Space-Grotesk-OFL.txt

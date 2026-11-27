@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">diSerial</string>
+    <string name="nav_terminal">ターミナル</string>
+    <string name="nav_macros">ショートカット</string>
+    <string name="nav_plotter">可視化</string>
+    <string name="nav_logs">ログ</string>
+    <string name="action_connect">接続</string>
+    <string name="action_disconnect">切断</string>
+    <string name="action_send">送信</string>
+    <string name="status_connected">接続済み</string>
+    <string name="status_disconnected">未接続</string>
+    <string name="status_preview_mode">プレビューモード</string>
+</resources>
